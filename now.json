@@ -1,0 +1,17 @@
+{
+  "name": "distance-learning-lp-uchiru",
+  "type": "static",
+  "alias": [
+    "school.uchi.ru"
+  ],
+  "static": {
+    "directoryListing": false,
+    "trailingSlash": true
+  },
+  "scale": {
+    "bru1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
+}
